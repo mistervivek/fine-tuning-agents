@@ -1,4 +1,4 @@
-# AI Agent & Research Engineering
+# AI Agent & Research
 ### SFT • Direct Preference Optimization (DPO) • Reward Modeling (PRM/ORM) • Trajectory Distillation • Trace Inspection & Failure Diagnostics
 
 This repository has been redesigned from a naive prompt-and-call tutorial into a **modular, production-grade Post-Training & Agent Research Engineering platform**. It equips research engineers to fine-tune, align, verify, and diagnose multi-turn agent policies.
